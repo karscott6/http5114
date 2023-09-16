@@ -14,6 +14,9 @@ Workshops in Web Dev 1
 2:20p-6:00p   
 NO J-110
 
+> [!Important]
+> Continue completing weekly tasks on time.
+
 ## Weekly To-Do
 
 **Week 1**
