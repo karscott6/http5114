@@ -24,3 +24,5 @@ NO J-110
 **Week 2**
 - [x] Task "GitHub for Individuals"
 - [ ] Task README.md Files
+
+![About right...](_readme/github.jpg)
