@@ -11,7 +11,7 @@ Workshops in Web Dev 1
 [Professor Email](mailto:gaurav.bhanot@humber.ca)
 
 **Friday**  
-2:20p-6:00p  
+2:20p-6:00p   
 NO J-110
 
 ## Weekly To-Do
