@@ -21,11 +21,11 @@ NO J-110
 
 **Week 1**
 - [x] Make Accounts (Discord, Stack Overflow, GitHub, BrickMMO Flow) & Complete to Assignment Outline
-- [x] Post Accounts on Discussion Board
-- [x] Academic Integrity Assignment
+- [x] Post Accounts on Discussion Board SUBMITTED
+- [x] Academic Integrity Assignment SUBMITTED
 
 **Week 2**
-- [x] Task "GitHub for Individuals"
-- [ ] Task README.md Files
+- [x] Task "GitHub for Individuals" SUBMITTED
+- [x] Task README.md Files SUBMITTED
 
 ![About right...](_readme/github.jpg)
