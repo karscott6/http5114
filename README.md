@@ -2,12 +2,16 @@
 
 ## Adam Thomas
 
-[ProfessorEmail](adam.thomas@humber.ca)
+[Professor Email](mailto:adam.thomas@humber.ca)
 
 ## Gaurav (Gary) Bhanot
 
-[ProfessorEmail](gaurav.bhanot@humber.ca)
+[Professor Email](mailto:gaurav.bhanot@humber.ca)
 
-### Friday
-2:20p-6:00p
+**Friday**  
+2:20p-6:00p  
 NO J-110
+
+## Task List
+- [ ] Task "GitHub for Individuals"
+- [ ] Task README.md Files
