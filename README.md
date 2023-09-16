@@ -1,5 +1,7 @@
 # HTTP-5114-0NA
 
+Workshops in Web Dev 1
+
 ### Adam Thomas
 
 [Professor Email](mailto:adam.thomas@humber.ca)
